@@ -30,5 +30,5 @@ USE AT YOUR OWN RISK. THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES.
 
 ---
 
-**© 2024 [debt01]. All Rights Reserved.**  
+**© 2025 [debt01]. All Rights Reserved.**  
 **Contact:** [stifen38@gmail.com]  
