@@ -66,5 +66,5 @@ Login loop	Delete
 ~/.termux/config.cfg
 ```
 ## License
-License - Free for personal and educational use.
+[License](https://github.com/debt01/termux-login/blob/main/LICENSE.md) - Free for personal and educational use.
 (Developed by debt01)[White Hat Hacker BD]
