@@ -1,4 +1,9 @@
 #!/bin/bash
+# Copyright (C) 2024 [Linux HUnter420] - All Rights Reserved
+# Unauthorized copying/modification prohibited
+# License: See LICENSE.md file
+# Copyright (C) 2025 [debt01] - All Rights Reserved
+# Unauthorized copying/modification prohibited
 # Developer Profile Generator
 # For TermuX-Custom Tool
 # Don't try to copy my script or tool or source code anyone
