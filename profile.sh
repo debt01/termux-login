@@ -50,7 +50,7 @@ show_profile() {
 
   
   echo -e "\n${GREEN}━━━━━━━━━━━━ DEVELOPMENT PHILOSOPHY ━━━━━━━━━━${NC}"
-  echo -e "\"Tools should empower users while maintaining security\""
+  echo -e "\"This tool empower users while maintaining security\""
   
   echo -e "\n${RED}Press any key to return...${NC}"
   read -n 1 -s
