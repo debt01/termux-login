@@ -1,4 +1,4 @@
-
+<image src="https://github.com/debt01/termux-login/blob/main/Screenshot%202025-07-11%20220708.png" >
 # TermuX-Banner ✨
 **A customized Termux experience with visual flair and optional feedback**
 
