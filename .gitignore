@@ -1,0 +1,37 @@
+# === SECURITY === #
+# Never commit these!
+*.key
+*.pem
+*.env
+credentials.txt
+auth_token
+secrets/
+
+# === SCRIPT-SPECIFIC IGNORES === #
+# Protect your login credentials
+bash.bashrc   # Avoid committing modified Termux config
+banner.sh     # If this contains any sensitive info
+profile.sh
+secure_login.sh
+delete.sh
+setup.sh
+
+# === SYSTEM/IDE FILES === #
+.DS_Store          # macOS
+Thumbs.db          # Windows
+.idea/             # JetBrains IDE
+.vscode/           # VS Code
+*.swp              # Vim swap files
+
+# === TERMUX/UNIX FILES === #
+motd               # Message of the Day
+*.log              # Log files
+/tmp/
+/var/
+
+# === BACKUPS/COMPILED FILES === #
+*.bak
+*.old
+*.temp
+*.pyc              # Python bytecode
+__pycache__/
